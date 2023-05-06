@@ -1,0 +1,40 @@
+.navbar{
+ background: #14341a;
+ padding-bottom:-1000px ;
+ color: #fff;
+ font-size: 20px;
+}
+.navbar nav{
+ display: flex;
+ align-items: center;
+ max-width: 1200px;
+ margin: 0 auto;
+ height:76px;
+}
+.navbar  a.brand {
+ margin-right: auto;
+ color: #fff;
+ text-decoration: none;
+ padding: 20px;
+}
+
+.navbar a:last-child {
+ color: #fff;
+ text-decoration: none;
+ margin-left: 780px;
+ padding: 8px;
+ border: 1px solid #fff;
+ border-radius: 4px;
+ font-size: 20px;
+}
+.navbar a:last-child:hover {
+ background-color: #fff;
+ color: #333; 
+} 
+
+.createh{
+ margin-left: -40px;
+}
+.cook{
+ font-size: 30px;
+}

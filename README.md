@@ -1,8 +1,8 @@
 # Recipe Directory Website
 
-### Welcome to our Recipe Directory Website! This is a web application built with React that allows users to browse, search, create for various recipes and view individual recipes, cooking time. Data is stored and accessed in the firestore database
+## Welcome to our Recipe Directory Website! This is a web application built with React that allows users to browse, search, create for various recipes and view individual recipes, cooking time. Data is stored and accessed in the firestore database
 
-## additionally you get to switch between the dark and the light mode and you also have the opportunuty to switch the color of the navbar
+## additionally you get to switch between the dark and the light mode and you also have the functionality to switch the color of the navbar
 
 # Getting Started
 To run this application locally, please follow these steps:
